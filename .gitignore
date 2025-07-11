@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.VC.db
+*.pdb
+*.obj
+*.exe
+*.ipch
+*.log
+*.sdf
+*.opensdf
+Debug/
+Release/
+*.tlog
