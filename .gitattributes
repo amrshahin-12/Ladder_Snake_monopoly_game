@@ -1,0 +1,3 @@
+   CMUgraphicsLib/jpeg/* linguist-vendored
+# Ignore third-party JPEG library for language stats
+CMUgraphicsLib/jpeg/* linguist-vendored
