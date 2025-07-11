@@ -112,14 +112,13 @@ ActionType Input::GetUserAction() const
 			case ITM_ADD_CARD: return ADD_CARD;
 			case ITM_EXIT: return EXIT;    //exit design mode
 			case ITM_SWITCH_TO_PLAY_MODE: return TO_PLAY_MODE;
-			case ITM_Copy_Card: return Copy_Card;
-			case ITM_Cut_Card: return Cut_Card;
-			case ITM_Edit_Card: return Edit_Card;
-			case ITM_Paste_Card: return Paste_Card;
-			case ITM_Delete_Game_Object: return  Delete_Game_Object;
-			case ITM_Save_Grid: return Save_Grid;
-			case ITM_Open_Grid:  return Open_Grid;
-				///TODO: Add cases for the other items of Design Mode
+			// case ITM_Copy_Card: return Copy_Card;
+			// case ITM_Cut_Card: return Cut_Card;
+			// case ITM_Edit_Card: return Edit_Card;
+			// case ITM_Paste_Card: return Paste_Card;
+			// case ITM_Delete_Game_Object: return  Delete_Game_Object;
+			// case ITM_Save_Grid: return Save_Grid;
+			// case ITM_Open_Grid:  return Open_Grid;
 
 
 
